@@ -1,0 +1,4 @@
+LearningGit
+===========
+
+Git Class exercises
